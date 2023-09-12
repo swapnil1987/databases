@@ -10,6 +10,6 @@ This is my attempt to keep track of all interesting databases I come across. Ove
 ## Databases based on research papers
 
 
-1. Fragmentation and Commodity Markets, IMF Working Paper 2023 
+1. Fragmentation and Commodity Markets, IMF Working Paper, Alvarez et al., 2023 
     - dataset of production and bilateral trade flows of the 48 most important energy, mineral and agricultural commodities.
 
