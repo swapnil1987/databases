@@ -15,3 +15,5 @@ This is my attempt to keep track of all interesting databases I come across. Ove
 
 2. *Financial Stress and Economic Activity: Evidence from a New Worldwide Index, IMF Working Paper, Ahir et al., 2023*
     - This paper uses text analysis to construct a continuous financial stress index (FSI) for 110 countries over each quarter during the period 1967-2018.
+
+3. [Global Alternative Finance data depository hosted by the Cambridge Center for Alternative Finance (CCAF)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/research/a-global-alternative-finance-data-depository/)
