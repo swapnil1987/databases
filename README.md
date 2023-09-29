@@ -17,3 +17,8 @@ This is my attempt to keep track of all interesting databases I come across. Ove
     - This paper uses text analysis to construct a continuous financial stress index (FSI) for 110 countries over each quarter during the period 1967-2018.
 
 3. [Global Alternative Finance data depository hosted by the Cambridge Center for Alternative Finance (CCAF)](https://www.jbs.cam.ac.uk/faculty-research/centres/alternative-finance/research/a-global-alternative-finance-data-depository/)
+
+4. Database of monetary policy shocks for an unbalanced sample of 33 countries  
+    - Used by the paper _Monetary Policy Transmission Heterogeneity: Cross-country Evidence_, Deb et al. 2023 (IMF Working Paper)
+
+5. 
