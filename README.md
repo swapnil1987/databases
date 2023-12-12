@@ -21,4 +21,6 @@ This is my attempt to keep track of all interesting databases I come across. Ove
 4. Database of monetary policy shocks for an unbalanced sample of 33 countries  
     - Used by the paper _Monetary Policy Transmission Heterogeneity: Cross-country Evidence_, Deb et al. 2023 (IMF Working Paper)
 
-5. 
+5. New Industrial Policy Observer dataset (NIPO)
+    - Used by the paper _The Return of Industrial Policy in Data_, Evenett et al. 2023 (IMF Working Paper)
+    
