@@ -24,3 +24,5 @@ This is my attempt to keep track of all interesting databases I come across. Ove
 5. New Industrial Policy Observer dataset (NIPO)
     - Used by the paper _The Return of Industrial Policy in Data_, Evenett et al. 2023 (IMF Working Paper)
     
+6. World Carbon Pricing Database
+    - Used by the paper _Distributional Impacts of Heterogenous Carbon Prices inthe EU_ 2024 (IMF Working Paper)
