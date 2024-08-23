@@ -26,3 +26,7 @@ This is my attempt to keep track of all interesting databases I come across. Ove
     
 6. World Carbon Pricing Database
     - Used by the paper _Distributional Impacts of Heterogenous Carbon Prices inthe EU_ 2024 (IMF Working Paper)
+
+
+7. Fiscal Consolidation Database    
+    - Used by the paper _An Updated  Action Based Dataset of Fiscal Consolidation_ 2024 (IMF Working Paper)
